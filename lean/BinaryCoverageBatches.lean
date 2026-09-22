@@ -1,0 +1,16 @@
+import BinaryCoverageBatches.Batch00
+import BinaryCoverageBatches.Batch01
+import BinaryCoverageBatches.Batch02
+import BinaryCoverageBatches.Batch03
+import BinaryCoverageBatches.Batch04
+import BinaryCoverageBatches.Batch05
+import BinaryCoverageBatches.Batch06
+import BinaryCoverageBatches.Batch07
+import BinaryCoverageBatches.Batch08
+import BinaryCoverageBatches.Batch09
+import BinaryCoverageBatches.Batch10
+import BinaryCoverageBatches.Batch11
+import BinaryCoverageBatches.Batch12
+import BinaryCoverageBatches.Batch13
+import BinaryCoverageBatches.Batch14
+import BinaryCoverageBatches.Batch15

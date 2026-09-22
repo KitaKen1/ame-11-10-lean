@@ -1,0 +1,15 @@
+import QuinaryCoverageBatches.Batch01
+import QuinaryCoverageBatches.Batch02
+import QuinaryCoverageBatches.Batch03
+import QuinaryCoverageBatches.Batch04
+import QuinaryCoverageBatches.Batch05
+import QuinaryCoverageBatches.Batch06
+import QuinaryCoverageBatches.Batch07
+import QuinaryCoverageBatches.Batch08
+import QuinaryCoverageBatches.Batch09
+import QuinaryCoverageBatches.Batch10
+import QuinaryCoverageBatches.Batch11
+import QuinaryCoverageBatches.Batch12
+import QuinaryCoverageBatches.Batch13
+import QuinaryCoverageBatches.Batch14
+import QuinaryCoverageBatches.Batch15

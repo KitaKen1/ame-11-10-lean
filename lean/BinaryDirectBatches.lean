@@ -1,0 +1,16 @@
+import BinaryDirectBatches.Batch00
+import BinaryDirectBatches.Batch01
+import BinaryDirectBatches.Batch02
+import BinaryDirectBatches.Batch03
+import BinaryDirectBatches.Batch04
+import BinaryDirectBatches.Batch05
+import BinaryDirectBatches.Batch06
+import BinaryDirectBatches.Batch07
+import BinaryDirectBatches.Batch08
+import BinaryDirectBatches.Batch09
+import BinaryDirectBatches.Batch10
+import BinaryDirectBatches.Batch11
+import BinaryDirectBatches.Batch12
+import BinaryDirectBatches.Batch13
+import BinaryDirectBatches.Batch14
+import BinaryDirectBatches.Batch15

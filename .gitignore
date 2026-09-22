@@ -1,0 +1,8 @@
+/.DS_Store
+**/.DS_Store
+**/.lake/
+**/*.olean
+**/*.ilean
+**/*.c
+**/*-build.log
+**/*-build-result.json

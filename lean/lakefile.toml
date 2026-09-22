@@ -1,0 +1,95 @@
+name = "ame_11_10_fc"
+version = "0.1.0"
+defaultTargets = ["AME11_10FC"]
+
+[[require]]
+name = "formal_conjectures"
+git = "https://github.com/google-deepmind/formal-conjectures"
+rev = "8927a585c5d522fc132d7ea6488fcd9e30ccd80e"
+
+[[lean_lib]]
+name = "AME11_10FC"
+
+[[lean_lib]]
+name = "AME11_10"
+
+[[lean_lib]]
+name = "AMEProbe"
+
+[[lean_lib]]
+name = "BinaryCoverage"
+
+[[lean_lib]]
+name = "BinaryCoverageBatches"
+
+[[lean_lib]]
+name = "BinaryDirectBase"
+
+[[lean_lib]]
+name = "BinaryDirectBatches"
+
+[[lean_lib]]
+name = "BinaryGraph"
+
+[[lean_lib]]
+name = "BinaryLookup"
+
+[[lean_lib]]
+name = "BinaryParent"
+
+[[lean_lib]]
+name = "CoupledState"
+
+[[lean_lib]]
+name = "FCBridge"
+
+[[lean_lib]]
+name = "FCSubsystemBridge"
+
+[[lean_lib]]
+name = "FCValueBridge"
+
+[[lean_lib]]
+name = "FinalState"
+
+[[lean_lib]]
+name = "GraphCharacter"
+
+[[lean_lib]]
+name = "GraphNormalization"
+
+[[lean_lib]]
+name = "GraphState"
+
+[[lean_lib]]
+name = "LiftedCuts"
+
+[[lean_lib]]
+name = "MaskEncoding"
+
+[[lean_lib]]
+name = "ParentBranches"
+
+[[lean_lib]]
+name = "QuinaryCoverage"
+
+[[lean_lib]]
+name = "QuinaryCoverageBatches"
+
+[[lean_lib]]
+name = "QuinaryCutProbe"
+
+[[lean_lib]]
+name = "QuinaryDirectBase"
+
+[[lean_lib]]
+name = "QuinaryDirectBatches"
+
+[[lean_lib]]
+name = "QuinaryGraph"
+
+[[lean_lib]]
+name = "QuinaryLookup"
+
+[[lean_lib]]
+name = "QuinaryParent"
